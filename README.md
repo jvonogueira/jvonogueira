@@ -18,10 +18,8 @@ Sou estudante de **Engenharia de Software**, atualmente no 2º semestre. Estou c
 ##  Projetos em destaque
 
 <!--
-Depois de criar seus projetos, liste os melhores aqui. Exemplo:
+Ainda em criação
 
-- **[Nome do Projeto](link)** — breve descrição do que faz e o que você aprendeu
-- **[Nome do Projeto 2](link)** — breve descrição
 -->
 
 ##  Contato
