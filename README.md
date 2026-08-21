@@ -1,32 +1,103 @@
-## Olá, tudo bem? 
-
-Sou estudante de **Engenharia de Software**, atualmente no 2º semestre. Estou construindo minha base em programação e organizando aqui meus projetos de estudo e prática.
-
-##  Atualmente
-
-- Aprofundando conhecimentos em **Python**
-- Estudando **SQL** e modelagem de dados
-- Iniciando **HTML/CSS**
-
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-##  Projetos em destaque
-
-<!--
-Ainda em criação
-
--->
-
-##  Contato
-
-- LinkedIn: [www.linkedin.com/in/joaonogueira-sw]
-- Email: [joao.nogueira.casa@gmail.com]
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:1e3a8a,100:3b82f6&text=JOAO%20NOGUEIRA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ENGENHARIA+DE+SOFTWARE+-+2%C2%BA+SEMESTRE;PYTHON+%7C+SQL+%7C+HTML;APRENDENDO+E+CONSTRUINDO+TODOS+OS+DIAS;WELCOME+TO+MY+CODE+JOURNEY"/>
+</div>
 
 ---
-⭐ Estou sempre aprendendo e aberto a feedback nos meus projetos!
 
+## 🤖 SYSTEM CORE
+
+```bash
+╭────────────────────────────╮
+│      JOAO SYSTEM v0.2      │
+╰────────────────────────────╯
+Initializing system...
+████████░░░░░░░░░░░░ 40%
+✔ Student detected
+✔ Curiosity enabled
+✔ Learning engine activated
+⏳ Projects loading...
+STATUS: LEARNING 📚
+```
+
+---
+
+## 👨‍💻 About Me
+
+```python
+joao = {
+    "name": "João Vitor Oliveira Nogueira",
+    "role": "Estudante de Engenharia de Software",
+    "semester": "2º semestre",
+    "location": "São Paulo, Brazil 🇧🇷",
+    "learning": {
+        "python": "intermediário",
+        "sql": "em progresso",
+        "html_css": "iniciando"
+    },
+    "tools": [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
+"
+}
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode&perline=8"/>
+</div>
+
+---
+
+## 🚀 Projetos
+
+| 🚀 Projeto | 💡 Descrição |
+|---|---|
+| 🔧 Em breve | Meu primeiro projeto em Python |
+| 🔧 Em breve | Aplicação usando SQL |
+
+> Ainda no início da jornada — essa tabela vai crescer conforme eu for terminando projetos. Prefiro mostrar poucos projetos bem feitos do que muitos incompletos.
+
+---
+
+## 🧠 Current Mission
+
+```bash
+> Loading objectives...
+[███████░░░] Python
+[████░░░░░░] SQL
+[██░░░░░░░░] HTML/CSS
+
+STATUS:
+Never stop learning 🚀
+```
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+<a href="https://github.com/JoaoVitorOliveiraNogueira">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/joaonoguiera-sw">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
+
+---
+
+<div align="center">
+
+### 💙 "Um projeto de cada vez."
+
+<img src="https://komarev.com/ghpvc/?username=JoaoVitorOliveiraNogueira&style=for-the-badge&color=3B82F6"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:1e3a8a,100:3b82f6"/>
