@@ -85,7 +85,7 @@ Never stop learning 🚀
 <a href="https://github.com/jvonogueira">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/in/joaonoguiera-sw">
+<a href="www.linkedin.com/in/joaonogueira-sw">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
