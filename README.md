@@ -49,7 +49,7 @@ joao = {
 ## ⚡ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,git,github&perline=8"/>
 </div>
 
 ---
@@ -82,7 +82,7 @@ Never stop learning 🚀
 ## 🌎 Connect With Me
 
 <div align="center">
-<a href="https://github.com/JoaoVitorOliveiraNogueira">
+<a href="https://github.com/jvonogueira">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/joaonoguiera-sw">
@@ -96,7 +96,7 @@ Never stop learning 🚀
 
 ### 💙 "Um projeto de cada vez."
 
-<img src="https://komarev.com/ghpvc/?username=JoaoVitorOliveiraNogueira&style=for-the-badge&color=3B82F6"/>
+<img src="https://komarev.com/ghpvc/?username=jvonogueira&style=for-the-badge&color=3B82F6"/>
 
 </div>
 
