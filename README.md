@@ -54,10 +54,12 @@ joao = {
 
 ---
 
+
 ## 🚀 Projetos
 
 | 🚀 Projeto | 💡 Descrição |
 |---|---|
+| ✅ [Cursos Gratis](https://jvonogueira.github.io/projeto-site.github.io/) | Site estático (HTML/CSS) publicado via GitHub Pages — treino prático de Git e GitHub |
 | 🔧 Em breve | Meu primeiro projeto em Python |
 | 🔧 Em breve | Aplicação usando SQL |
 
