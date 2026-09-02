@@ -12,7 +12,7 @@
 │      JOAO SYSTEM v0.2      │
 ╰────────────────────────────╯
 Initializing system...
-████████░░░░░░░░░░░░ 40%
+████████ 40%
 ✔ Student detected
 ✔ Curiosity enabled
 ✔ Learning engine activated
@@ -71,9 +71,9 @@ joao = {
 
 ```bash
 > Loading objectives...
-[███████░░░] Python
-[████░░░░░░] SQL
-[██░░░░░░░░] HTML/CSS
+[███████] Python
+[████] SQL
+[██] HTML/CSS
 
 STATUS:
 Never stop learning 🚀
